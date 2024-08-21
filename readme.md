@@ -16,7 +16,7 @@ Alternatively, you can download the full library as a ZIP:
 
 ![ZIP](http://i.imgur.com/Dkvp0.png)
 
-Then, simply open the Eclipse project to start testing. Ensure your LWJGL JARs and natives have been set correctly in [IntelliJ Idea](https://github.com/LWJGL/lwjgl3-wiki/wiki/1.2.-Install#intellij-idea), [NetBeans](https://github.com/LWJGL/lwjgl3-wiki/wiki/1.2.-Install#netbeans) or [Eclipse](https://github.com/LWJGL/lwjgl3-wiki/wiki/1.2.-Install#eclipse), and include lwjgl-basics as a class library. lwjgl-basics also uses PNGDecoder.jar as a dependency, which can be downloaded [here](https://web.archive.org/web/20130920035443/http://twl.l33tlabs.org/textureloader/).
+Ensure your LWJGL JARs and natives have been set correctly in [IntelliJ Idea](https://github.com/LWJGL/lwjgl3-wiki/wiki/1.2.-Install#intellij-idea), [NetBeans](https://github.com/LWJGL/lwjgl3-wiki/wiki/1.2.-Install#netbeans) or [Eclipse](https://github.com/LWJGL/lwjgl3-wiki/wiki/1.2.-Install#eclipse). lwjgl-basics also uses PNGDecoder.jar as a dependency, which can be downloaded [here](https://web.archive.org/web/20130920035443/http://twl.l33tlabs.org/textureloader/).
 
 See the [tests](https://github.com/mattdesl/lwjgl-basics/tree/master/test/mdesl/test) package to get started with some basic examples.
 
